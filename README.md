@@ -48,7 +48,7 @@ FlowGuard é um sistema completo de monitoramento de alagamentos baseado em IoT,
 
 ### 1. Clone o repositório
 ```bash
-git clone 
+git clone https://github.com/Irissuu/csharo_gs.git
 ```
 
 ### 2. Configure a string de conexão no appsettings.json
