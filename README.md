@@ -107,7 +107,8 @@ dotnet run
 ---
 
 ## 📑  Diagrama da Solução
-![image](https://github.com/user-attachments/assets/8903e71f-2b04-4ee1-b90e-6d311f5b83e5)
+![image](https://github.com/user-attachments/assets/5fcdfacd-3d66-4dc8-9687-7530dc9db014)
+
 
 ---
 
